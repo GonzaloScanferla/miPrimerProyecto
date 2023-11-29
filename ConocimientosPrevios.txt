@@ -1,1 +1,2 @@
-Bases sobre lógica de programación (algoritmos, sintaxis...)
+1. Bases sobre lógica de programación (algoritmos, sintaxis...)
+2. Bases de Python
