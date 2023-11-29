@@ -1,0 +1,3 @@
+Objetivo 1 - No morir en el intento
+Objetivo 2 - Entender los flujos de trabajo en el entorno de programación y la función de los diferentes lenguajes y herramientas
+Objetivo 3 - Aprender unas bases de los diferentes lenguajes que me permitan luego seguir ampliando conocimientos de manera fluida con estos y otros lenguajes de programación
