@@ -1,1 +1,2 @@
 Objetivo 1 - No morir en el intento
+Objetivo 2 - Entender los flujos de trabajo en el entorno de programación y la función de los diferentes lenguajes y herramientas
